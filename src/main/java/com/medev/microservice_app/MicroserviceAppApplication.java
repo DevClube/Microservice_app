@@ -18,6 +18,7 @@ public class MicroserviceAppApplication {
         SpringApplication.run(MicroserviceAppApplication.class, args);
     }
 
+    /*
     @Bean
     CommandLineRunner start(CompteRepository compteRepository){
         return args -> {
@@ -34,5 +35,5 @@ public class MicroserviceAppApplication {
 
             }
         };
-    }
+    }*/
 }
