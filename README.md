@@ -34,3 +34,7 @@ Le contrôleur CompteRestController gère les requêtes HTTP et fait appel aux s
 
 The application will start on port 8080.
 
+## Usage
+### Création des Entities:
+
+<img src="./Capture/img.png">

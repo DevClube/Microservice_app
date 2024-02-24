@@ -18,9 +18,6 @@ public class Compte {
     private Date createAt;
     private Double balance;
     private String currency;
-
     @Enumerated(EnumType.STRING)
     private AccountType type;
-
-
 }
