@@ -1,0 +1,11 @@
+type Query {
+    comptesList : [Compte],
+    compteById (id:String) : Compte
+}
+type Compte{
+    id:String,
+    createAt:Float,
+    balance: Float,
+    currency: String,
+    type:String,
+}

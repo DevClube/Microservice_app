@@ -38,3 +38,52 @@ The application will start on port 8080.
 ### Création des Entities:
 
 <img src="./Capture/img.png">
+
+### Création de Repository:
+
+<img src="./Capture/repository.png">
+
+### Création de Service:
+
+<img src="./Capture/controller.png">
+
+### Test avec Postman:
+#### Afficher tous les comptes:
+
+<img src="./Capture/allcomptes.png">
+<img src="./Capture/comptes.png">
+
+#### Afficher un comptes:
+
+<img src="./Capture/getmethod.png">
+<img src="./Capture/findcompte.png">
+
+### Swagger Documentation:
+
+<img src="./Capture/swagger.png">
+
+### Création des dto et Mappers:
+#### RequestDTO:
+<img src="./Capture/requestdto.png">
+
+#### ResponseDTO:
+<img src="./Capture/responsedto.png">
+
+#### Mapper:
+<img src="./Capture/mappers.png">
+
+### Création de Service:
+#### Interface Service:
+<img src="./Capture/service.png">
+
+#### Service Implementation:
+<img src="./Capture/serviceimpl.png">
+
+### GraphQL:
+#### schema:
+<img src="./Capture/gql.png">
+
+#### Test des schemas:
+<img src="./Capture/graphql.png">
+
+<img src="./Capture/graphe02.png">
